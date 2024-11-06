@@ -17,4 +17,5 @@
 <img src="https://github.com/adhi260303/responsi/blob/main/tampilan_hasil/akun.jpg?raw=true" alt="Halaman Akun" width="250"/>
 
 ## Halaman Kelola Akun
-<img src="https://github.com/adhi260303/responsi/blob/main/tampilan_hasil/kelola_akun.jpg?raw=true" alt="Halaman Logout" width="250"/>
+<img src="https://github.com/adhi260303/responsi/blob/main/tampilan_hasil/kelola_akun.jpg?raw=true" alt="Halaman Logout" width="250"/>
+
